@@ -3,7 +3,7 @@
 
 ### What is Docker ?
   
-Docker is conyghf ao;ngnohg'oeat
+Docker is a open source platform used to automate the dpeloyment of applications,within the lightweight and portable containers.
 
 ```
 docker ps
