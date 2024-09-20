@@ -8,14 +8,16 @@ These containers package software and all its dependencies into standardized uni
 
 ### Difference b/w container and virtual machine ?
 
-Container is a lightweight.
+1.Container is a lightweight.
 
-Isolated environment that runs on a shared os kernel.
+2.Isolated environment that runs on a shared os kernel.
 
-It allows faster startup times and reduced resource overhead compared to VM's.
+3.It allows faster startup times and reduced resource overhead compared to VM's.
 
 VM, on the other hand, emulat ean entire physical computer.
+
 Includes its own operating system.
+
 The resources are required more to run.
 
 ### What is a docker image ?
