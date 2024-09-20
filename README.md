@@ -14,11 +14,11 @@ These containers package software and all its dependencies into standardized uni
 
 3.It allows faster startup times and reduced resource overhead compared to VM's.
 
-VM, on the other hand, emulat ean entire physical computer.
+1.VM, on the other hand, emulat ean entire physical computer.
 
-Includes its own operating system.
+2.Includes its own operating system.
 
-The resources are required more to run.
+3.The resources are required more to run.
 
 ### What is a docker image ?
 
@@ -34,8 +34,8 @@ Dockerfiles are used with docker build command to create custom Docker images.
 
 ### What is docker-compose and how it is used ?
 
-Docker-compose is a tool used to define and run multi-container Docker applications.
-It uses a YAML file to specify services, networks and 
+1.Docker-compose is a tool used to define and run multi-container Docker applications.
+2.It uses a YAML file to specify services, networks and volumes for an application, allowing developers to define and manage complex application environments with ease.
 
 
 ```
