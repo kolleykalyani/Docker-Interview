@@ -52,11 +52,12 @@ Docker swarm provides features for service discovery, load balancing and high av
 
 2.k8s offers advanced capabilities for scaling, self-healing and managing containerized applications at scale, making it suitable for complex, production-grade environments.
 
+### How do you share data b/w Docker containers ?
+
+1.Docker containers can share data using volumes or bind mounts.
+
+2.Volumes are managed by Docker and Persist data even if the  
 
 
 
-```
-docker ps
-```
 
-![D](https://www.cherryservers.com/v3/assets/blog/2021-10-13/01.png)
