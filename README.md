@@ -80,9 +80,9 @@ Docker swarm provides features for service discovery, load balancing and high av
 
 2.To initialize a swarm, we use the command on a manager node.
 
-'''
+```
 docker swarm init
-'''
+```
 
 3.This command generates a token that other noder nodes can use to join the swarm as worker / manager nodes.
 
