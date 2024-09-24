@@ -14,7 +14,7 @@ These containers package software and all its dependencies into standardized uni
 
 3.It allows faster startup times and reduced resource overhead compared to VM's.
 
-1.VM, on the other hand, emulat ean entire physical computer.
+1.VM, on the other hand, emulate an entire physical computer.
 
 2.Includes its own operating system.
 
